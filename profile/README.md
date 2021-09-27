@@ -1,6 +1,7 @@
 <h1 align='center'>Hello from Betaoverflow<img alt="wave" src="https://emojis.slackmojis.com/emojis/images/1588177020/8809/wave_hello.gif?1588177020" width="35"></h1>
 
-<img src='https://user-images.githubusercontent.com/36594527/103608826-5f602500-4f70-11eb-97d4-d857fd212f51.jpg'>
+![hacktoberfest2021](https://user-images.githubusercontent.com/67703407/134874170-b7e2c7c1-02fb-4442-9f25-62bf61f30dfd.png)
+
 
 <!--
 
